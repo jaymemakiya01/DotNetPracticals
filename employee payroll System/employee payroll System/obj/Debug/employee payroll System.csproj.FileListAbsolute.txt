@@ -1,0 +1,7 @@
+C:\Users\Jay\source\repos\employee payroll System\employee payroll System\bin\Debug\employee payroll System.exe.config
+C:\Users\Jay\source\repos\employee payroll System\employee payroll System\bin\Debug\employee payroll System.exe
+C:\Users\Jay\source\repos\employee payroll System\employee payroll System\bin\Debug\employee payroll System.pdb
+C:\Users\Jay\source\repos\employee payroll System\employee payroll System\obj\Debug\employee payroll System.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\employee payroll System\employee payroll System\obj\Debug\employee payroll System.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\employee payroll System\employee payroll System\obj\Debug\employee payroll System.exe
+C:\Users\Jay\source\repos\employee payroll System\employee payroll System\obj\Debug\employee payroll System.pdb

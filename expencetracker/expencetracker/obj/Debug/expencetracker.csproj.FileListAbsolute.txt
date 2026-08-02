@@ -1,0 +1,7 @@
+C:\Users\Jay\source\repos\expencetracker\expencetracker\obj\Debug\expencetracker.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\expencetracker\expencetracker\obj\Debug\expencetracker.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\expencetracker\expencetracker\bin\Debug\expencetracker.exe.config
+C:\Users\Jay\source\repos\expencetracker\expencetracker\bin\Debug\expencetracker.exe
+C:\Users\Jay\source\repos\expencetracker\expencetracker\bin\Debug\expencetracker.pdb
+C:\Users\Jay\source\repos\expencetracker\expencetracker\obj\Debug\expencetracker.exe
+C:\Users\Jay\source\repos\expencetracker\expencetracker\obj\Debug\expencetracker.pdb
